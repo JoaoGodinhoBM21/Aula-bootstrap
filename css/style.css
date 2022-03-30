@@ -1,0 +1,41 @@
+.body{
+    font-size: medium;
+    font-style: oblique;
+}
+.navbar{
+    background-color: rgb(15, 15, 15);
+}
+
+.nav-link{
+    font-style: italic;
+    color:rgb(220, 233, 47);
+    font-size: 150%;
+}
+
+.quem-somos{
+    background-color: deepskyblue;
+    color: white;
+    font-style: oblique;
+}
+
+.margin{
+    padding: 30px;
+}
+
+.parceiros{
+    background-color: lime;
+    font-style: oblique;
+}
+
+.estudos{
+    background-color: darkred;
+    font-style: oblique;
+    color: white;
+    font-size: 20px;
+}
+
+.nome{
+    background-color:  rgb(8, 8, 8);
+    font-style: italic;
+    color: goldenrod;
+}
